@@ -1,5 +1,5 @@
 // GASの「ウェブアプリとして公開」した時のURLを入力
-const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzvP4lX4aiJYGIbYUfDbk8g5DWVPSHv69Br0UPNKP8HWfgmILzMX-Ox-EC679bWEuSyMg/exec";
+const GAS_WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzwb-aMHjkAw69hnzFcLowt1w1PoozfQbTLB9AkVmmWC1WHNKJkGkhGarIAZN4NTysLog/exec";
 
 const video = document.getElementById('camera-preview');
 const canvas = document.getElementById('capture-canvas');
